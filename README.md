@@ -39,6 +39,6 @@
 
 ---
 
-### 访问量
+### 页面访问量
 
-![profile views](http://profile-counter.glitch.me/evilbutcher/count.svg)
+![profile views](https://profile-counter.glitch.me/evilbutcher/count.svg)
