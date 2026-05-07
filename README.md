@@ -40,5 +40,4 @@
 ---
 
 ### 页面访问量
-url=https%3A%2F%2Fgithub.com%2Fevilbutcher&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
-![页面访问量](https://komarev.com/ghpvc/?username=evilbutcher&label=backup%20views&color=6a5acd&style=flat)
+![页面访问量](https://komarev.com/ghpvc/?username=evilbutcher&label=%E9%A1%B5%E9%9D%A2%E8%AE%BF%E9%97%AE%E9%87%8F&color=0e75b6&style=flat)
