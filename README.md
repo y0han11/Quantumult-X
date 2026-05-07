@@ -36,8 +36,3 @@
 
 > **您必须在下载后的 24 小时内从计算机或手机中完全删除以上内容。**  
 > **您使用或复制了本仓库的任何脚本，则视为已接受此声明，请仔细阅读。**
-
----
-
-### 页面访问量
-![页面访问量](https://komarev.com/ghpvc/?username=evilbutcher&label=%E9%A1%B5%E9%9D%A2%E8%AE%BF%E9%97%AE%E9%87%8F&color=0e75b6&style=flat)
