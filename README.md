@@ -40,6 +40,5 @@
 ---
 
 ### 页面访问量
-
-![primary profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fevilbutcher&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
-![backup profile views](https://komarev.com/ghpvc/?username=evilbutcher&label=backup%20views&color=6a5acd&style=flat)
+url=https%3A%2F%2Fgithub.com%2Fevilbutcher&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
+![页面访问量](https://komarev.com/ghpvc/?username=evilbutcher&label=backup%20views&color=6a5acd&style=flat)
